@@ -1,0 +1,8 @@
+total 0
+0 -rw-rw-r-- 1 wulin wulin 0 Nov 10 13:42 file1.txt
+0 -rw-rw-r-- 1 wulin wulin 0 Nov 10 13:42 file2.txt
+0 -rw-rw-r-- 1 wulin wulin 0 Nov 10 13:42 file3.txt
+0 -rw-rw-r-- 1 wulin wulin 0 Nov 10 13:42 file4.java
+0 -rw-rw-r-- 1 wulin wulin 0 Nov 10 13:42 file5.java
+0 -rw-rw-r-- 1 wulin wulin 0 Nov 10 13:42 file6.css
+0 -rw-rw-r-- 1 wulin wulin 0 Nov 11 09:20 ls_file7_out.txt

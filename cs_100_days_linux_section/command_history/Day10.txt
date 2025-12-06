@@ -1,0 +1,24 @@
+    1  history
+    2  lsmod | grep vboxguest
+    3  sudo sh /media/$PC/VBox_GAs_*/VBoxLinuxAdditions.run
+    4  sudo sh /media/$USER/VBox_GAs_*/VBoxLinuxAdditions.run
+    5  sudo adduser $USER vboxsf
+    6  sudo apt upgrade
+    7  sudo apt update
+    8  sudo reboot
+    9  sudo usermod -aG vboxsf $USER
+   10  sudo reboot
+   11  ls media
+   12  ls /media/
+   13  ls /media/sf_linux/
+   14  cd Desktop/100_Days_Challenge/cp_command/
+   15  ls
+   16  cp cp_dir1 cp_dir2
+   17  cp cp_dir1/ cp_dir2/
+   18  cp -r  cp_dir1/ cp_dir2/
+   19  ls cp_dir2/
+   20  cd ..
+   21  cd Command_History/
+   22  touch Day10.txt
+   23  history > Day10.txt 
+Sat Nov 15 10:54:02 +0630 2025

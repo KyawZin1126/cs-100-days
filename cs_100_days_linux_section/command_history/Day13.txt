@@ -1,0 +1,144 @@
+    1  cd Downloads/
+    2  ls
+    3  sudo dpkg -i code_1.105.1-1760482543_amd64.deb 
+    4  code
+    5  cd Downloads/
+    6  ls
+    7  sudo dpkg -i zoom_amd64.deb 
+    8  zoom
+    9  cd ..
+   10  python
+   11  python version
+   12  sudo apt update
+   13  sudo apt --upgradeable
+   14  sudo apt upgrade
+   15  sudo apt update
+   16  sudo apt --upgradeable
+   17  sudo apt list --upgradeable
+   18  sudo apt install python3.12
+   19  sudo apt install python3.11
+   20  sudo apt update
+   21  sudo apt upgrade
+   22  sudo apt --fi-broken install
+   23  sudo apt --fix-broken install
+   24  sudo apt upgrade
+   25  sudo apt update
+   26  python3 --version
+   27  python -u "/home/kyaw/Desktop/Python/test.py"
+   28  sudo python3 --version
+   29  sudo apt install python-is-python3 -y
+   30  python --version
+   31  python test.py
+   32  python -u "/home/kyaw/Desktop/Python/test.py"
+   33  sudo ntfsfix /dev/sdb1
+   34  lsblk
+   35  sudo blkid /dev/sdb1
+   36  sudo apt install ntfs-3g -y
+   37  sudo mkdir -p /mnt/usb
+   38  sudo mount /dev/sdb1 /mnt/usb
+   39  udo fsck /dev/sdb1
+   40  sudo fsck /dev/sdb1
+   41  sudo unmount /mnt/usb
+   42  pwd
+   43  date
+   44  ls
+   45  sudo apt update
+   46  apt list --upgradable
+   47  sudo apt update upgrade
+   48  sudo apt update --upgrade
+   49  sudo apt update
+   50  sudo apt list --upgradable
+   51  sudo apt update
+   52  free -h
+   53  date
+   54  cd ~
+   55  cd Desktop/100_Days_Challange/ls_folder/
+   56  mkdir rm\ commands
+   57  cd rm\ commands/
+   58  mkdir file{1,2,3,4}
+   59  ls
+   60  mkdir file4/test1
+   61  mkdir -p file5/test2
+   62  ls
+   63  ls file5/
+   64  rmdir file{1,2,3}
+   65  ls
+   66  rmdir file{4,5}
+   67  rmdir -r file{4,5}
+   68  rmdir -p  file{4,5}
+   69  rmdir -pv file{4,5}
+   70  rmdir -rv file{4,5}
+   71  rmdir -p file{4,5}
+   72  rmdir -r file4/`
+   73  file
+   74  file4
+   75  rmdir -r file4/
+   76  rm -r file4/
+   77  ls
+   78  rmdir -pv a/b/c
+   79  rmdir -pv file5/test2/
+   80  ls
+   81  cd ..
+   82  mkdir command_history
+   83  touch command_history/Day9.txt
+   84  history > command_history/Day9.txt 
+   85  date >> command_history/Day9.txt 
+   86  cd Desktop/
+   87  ls
+   88  cd ..
+   89  cd Downloads/
+   90  ls
+   91  sudo dpkg -i zoom_amd64.deb 
+   92  free
+   93  sudo apt update
+   94  sudo apt upgrade
+   95  sudo apt update
+   96  sudo apt upgrade
+   97  kyaw
+   98  python3 --version
+   99  python3
+  100  /usr/bin/python "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  101  python3
+  102  python3 youtube.py
+  103  /usr/bin/python "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  104  python3
+  105  python -u "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  106  /usr/bin/python "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  107  python3
+  108  python -u "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  109  /usr/bin/python "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  110  cd Desktop/
+  111  cd ..
+  112  cd Downloads/
+  113  ls
+  114  sudo dpkg -i code_1.106.0-1762878362_amd64.deb 
+  115  python -u "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  116  /usr/bin/python "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  117  python -u "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  118  /usr/bin/python "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  119  python -u "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  120  clear
+  121  python -u "/home/kyaw/Desktop/Free Class/Free Class/Python/youtube.py"
+  122  cd Desktop/100_Days_Challange/
+  123  ls
+  124  mkdir touch_command
+  125  cd touch_command/
+  126  touch touch_file1.txt
+  127  cat > touch_file1.txt 
+  128  ls -lh touch_file1.txt 
+  129  cat touch_file1.txt 
+  130  cd ..
+  131  mkdir nano_command
+  132  cd nano_command/
+  133  nano nano_ile1.txt
+  134  cat nano_ile1.txt 
+  135  ls
+  136  nano nano_ile1.txt 
+  137  nano nano_file1.txt 
+  138  ls
+  139  mv nano_ile1.txt 
+  140  cd ..
+  141  cd command_history/
+  142  touch Day13.txt
+  143  history > Day13.txt 
+Mon Nov 17 10:18:48 PM +0630 2025

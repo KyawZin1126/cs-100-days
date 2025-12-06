@@ -1,0 +1,33 @@
+    1  date
+    2  cd ~
+    3  cd Desktop/100_Days_Challange/ls_folder/
+    4  mkdir rm\ commands
+    5  cd rm\ commands/
+    6  mkdir file{1,2,3,4}
+    7  ls
+    8  mkdir file4/test1
+    9  mkdir -p file5/test2
+   10  ls
+   11  ls file5/
+   12  rmdir file{1,2,3}
+   13  ls
+   14  rmdir file{4,5}
+   15  rmdir -r file{4,5}
+   16  rmdir -p  file{4,5}
+   17  rmdir -pv file{4,5}
+   18  rmdir -rv file{4,5}
+   19  rmdir -p file{4,5}
+   20  rmdir -r file4/`
+file
+file4
+   21  rmdir -r file4/
+   22  rm -r file4/
+   23  ls
+   24  rmdir -pv a/b/c
+   25  rmdir -pv file5/test2/
+   26  ls
+   27  cd ..
+   28  mkdir command_history
+   29  touch command_history/Day9.txt
+   30  history > command_history/Day9.txt 
+Fri Nov 14 08:12:09 PM +0630 2025

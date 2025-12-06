@@ -1,0 +1,26 @@
+Thu Nov 13 09:46:44 +0630 2025
+    1  history
+    2  cd Desktop/100_Days_Challenge/ls_folder/
+    3  cd ..
+    4  mkdir mkdir_folder
+    5  cd mkdir_folder/
+    6  mkdir 'my folder'
+    7  mkdir "My Project"
+    8  mkdir Linux\ Tutorials
+    9  ls
+   10  mkdir "my lab" "my notes"
+   11  ls
+   12  mkdir Linux\ Tutorials/Chapter1
+   13  mkdir Linux\ Tutorials/Chapter{2,3,4,5}
+   14  ls Linux\ Tutorials/
+   15  mkdir Java\ Tutorials/Chapter1
+   16  mkdir -p Java\ Tutorials/Chapter1
+   17  mkdir Java\ Tutorials/{lab,note}
+   18  ls Java\ Tutorials/
+   19  mkdir -pv React\ Tutorials/{lab,project,notes}
+   20  cd ..
+   21  cd Command_History/
+   22  ls
+   23  history
+   24  date > Day8.txt
+   25  history >> Day8.txt

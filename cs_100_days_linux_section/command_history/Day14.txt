@@ -1,0 +1,34 @@
+    1  sudo apt install update
+    2  sudo apt install upgrade
+    3  sudo apt install
+    4  sudo apt update
+    5  sudo apt upgrade
+    6  cd Desktop/100_Days_Challange/
+    7  ls
+    8  mkdir vi_vim_folder
+    9  cd vi_vim_folder/
+   10  vi vi_folder
+   11  cat vi_folder 
+   12  vim vim_folder.txt
+   13  sudo apt install vim
+   14  vim vim_folder.txt
+   15  cat vim_folder.txt 
+   16  ls
+   17  mv vi_folder vi_folder.txt
+   18  ls
+   19  cat > vim_folder2.txt
+   20  cat vim_folder2.txt 
+   21  clear
+   22  man ls
+   23  whatis ls
+   24  what is mv
+   25  whatis rm
+   26  whatis mkdir
+   27  whatis dir
+   28  cd ..
+   29  ls
+   30  cd command_history/
+   31  ls
+   32  touch Day14.txt
+   33  history > Day14.txt 
+Wed Nov 19 09:44:10 PM +0630 2025

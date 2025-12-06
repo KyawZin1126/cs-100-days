@@ -1,0 +1,15 @@
+Wed Nov 12 11:55:49 +0630 2025
+/home/wulin/Desktop/100_Days_Challenge/ls_folder/cat_command
+Linux
+Java
+HTML
+CSS
+
+
+Python
+PHP
+JavaScript
+TypeScript
+
+
+

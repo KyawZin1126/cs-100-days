@@ -1,0 +1,927 @@
+Tue Nov 11 10:51:55 +0630 2025
+    1  pwd
+    2  find 
+    3  find ?
+    4  is /home
+    5  /
+    6  cd /
+    7  desktop /
+    8  ..
+    9  desktop /\
+   10  ls 
+   11  ls /
+   12  ls /home
+   13  ls /etc
+   14  ls /bin
+   15  ls -l
+   16  cd pwd
+   17  pwd
+   18  cd ~
+   19  pwd
+   20  /Desktop
+   21  ls / home
+   22  cd desktop
+   23  mkdir -p ~/project/pratice/subdirectory
+   24  cd ~/project/pratice/subdirectory
+   25  pwd
+   26  cd 
+   27  pwd
+   28  tree /
+   29  cd ~/project/pratice/subdirectory
+   30  tree /
+   31  cd
+   32  tree
+   33  sudo snap install tree
+   34  sudo
+   35  sudo snap
+   36  sudo apt update
+   37  sudo apt upgrade
+   38  tree
+   39  sudo
+   40  man sudo_root
+   41  sudo apt
+   42  /home
+   43  /etc
+   44  /bin
+   45  sudo snap install tree
+   46  cd
+   47  sudo apt install snapd
+   48  clear
+   49  sudo snap install tree
+   50  clear
+   51  tree
+   52  tree /
+   53  sudo snap install tre
+   54  sudo snap install tree
+   55  snap help refresh
+   56  tree
+   57  cd /snap/bin
+   58  tree
+   59  cd /snap/bin/tree
+   60  cd
+   61  cd /snap
+   62  tree
+   63  cd
+   64  sudo apt install tree
+   65  tree
+   66  clear
+   67  tree
+   68  cd /desktop
+   69  cd /document
+   70  cd /download
+   71  cd /project
+   72  cd ~/project
+   73  ped
+   74  pwd
+   75  cd
+   76  cd ..
+   77  cd ~/jome
+   78  cd ~/home
+   79  cd /home
+   80  cd /desktop
+   81  pwdpwf
+   82  pwd
+   83  ls
+   84  cls
+   85  cd
+   86  cd cd cd ..
+   87  pwd
+   88  man ls
+   89  tree
+   90  \home
+   91  /home
+   92  cd ..
+   93  mkdir ~p ~/project/pratice/subdirectory
+   94  cd ~/project/pratice/subdirectory
+   95  ped
+   96  pwd
+   97  cd ..
+   98  cd..
+   99  cd ..
+  100  cd /home/labex/project/pratice/subdirectory
+  101  cd ~/project/pratice/subdirectory
+  102  cd ..
+  103  cd /home/labex/project/pratice/subdirectory
+  104  pwd
+  105  cd /home/wulin/project/pratice/subdirectory
+  106  cd /
+  107  cd ~## go to home directory
+  108  cd ~##
+  109  cd ~ ##
+  110  cd /home/wulin/project/pratice/subdirectory
+  111  cd ~ ##
+  112  cd - ##
+  113  cd ##
+  114  cd - ##
+  115  cd ##
+  116  cd ~ ##
+  117  cd ~/project
+  118  mkdir dir1 dir2 dir3
+  119  ls
+  120  touch file1.txt
+  121  ls -l file1.txt
+  122  echo "Hello, Linux" > file2.txt
+  123  cat file2.txt
+  124  cat file1.txt
+  125  cat file2.txt
+  126  echo "this is a new line" >> file2.txt
+  127  cat file2.txt
+  128  file
+  129  tree
+  130  cd ~/project/pratice/subdirectory
+  131  cd ..
+  132  cd /
+  133  pwd
+  134  cd ..
+  135  cd ##
+  136  pwd
+  137  cd ~ ##
+  138  cd - ##
+  139  cd /home/wulin/project/pratice/subdirectory
+  140  cd ##
+  141  cd - ##
+  142  cd ~ ##
+  143  cd ~/project
+  144  ls
+  145  pwd
+  146  ls -i
+  147  ls -l
+  148  echo "kon shin" > file1.txt
+  149  cat file1.txt
+  150  echo "i play goldlane" >> file1.txt
+  151  cat file1.txt
+  152  echo "loon" > file1.txt
+  153  cat file1.txt
+  154  cd ##
+  155  cd ~/project
+  156  cp file1.txt dir1/
+  157  ls dir1
+  158  cp file2.txt dir2/file2_copy.txt
+  159  ls dir2
+  160  ls
+  161  tree ls
+  162  tree
+  163  mv file2.txt dir3/
+  164  ls dir3
+  165  ls
+  166  mv dir3/file1.txt dir3/renamed_file.txt
+  167  mv file1.txt dir3/renamed_file.txt
+  168  ls dir3
+  169  cd ##
+  170  mkdir -p nasted/structure/example
+  171  tree nasted
+  172  cp -r nasted dir1/
+  173  tree dir1
+  174  cd ##
+  175  cat << EOF > multiline.txt
+  176  line 1: Hello, Linux
+  177  Line 2: This is a multiline file.
+  178  Line 3: Created using a here-document.
+  179  EOF
+  180  cat multiline.txt
+  181  nl multiline.txt
+  182  cat multiline.txt
+  183  ls multiline.txt
+  184  cat << ttt > kon.txt
+  185  Line 1: Testing
+  186  Line 2: Praticing
+  187  ttt
+  188  cat kon.txt
+  189  cat << tt > test.txt
+  190  Testing
+  191  tt
+  192  cat test.txt
+  193  nl multiline.txt
+  194  head -n 2 multiline.txt
+  195  tail -n1 multiline.txt
+  196  nano multiline.txt
+  197  cat multiline.txt
+  198  find . -name "*.txt"
+  199  sudo find / -name "passwd"
+  200  find ~ -size +1M
+  201  find ~ -mtime -1
+  202  find ~ -size +1M
+  203  which python
+  204  which python3
+  205  cd ##
+  206  ls
+  207  pwd
+  208  man ls
+  209  tree
+  210  cd desktop
+  211  cd ~/desktop
+  212  cd /desktop
+  213  cd /dis1
+  214  cd /dir1
+  215  pwd
+  216  cd /home/wulin/dir1
+  217  cd ..
+  218  ls -l
+  219  /
+  220  cd /
+  221  cd ##
+  222  cd ~
+  223  cd ##
+  224  cd ~ ##
+  225  cd - ##
+  226  ls
+  227  mkdir css
+  228  ls
+  229  mv styles.css css/
+  230  ls css
+  231  touch index.html
+  232  find *.html
+  233  ls
+  234  touch styles.css
+  235  touch script.js utils.js images
+  236  ls
+  237  mkdir css
+  238  mkdir /css
+  239  mv styles.css css/
+  240  ls css
+  241  mv index.html home.html
+  242  ls
+  243  mkdir script
+  244  mv *.js script/
+  245  ls script
+  246  echo "text content" > test.txt
+  247  cat test.txt
+  248  ls home.html
+  249  echo "home page" > home.html
+  250  ls home.html
+  251  mv -i test.txt home.html
+  252  ls
+  253  cd ##
+  254  cd ~ ##
+  255  cd - ##
+  256  pwd
+  257  cd - ##
+  258  find . -name "*.txt"
+  259  find . -name "*.js"
+  260  find . -name "*.css"
+  261  sudo find / -name 
+  262  sudo find / -name "m"
+  263  sudo find / -name "mul"
+  264  sudo find / -name "passwd"
+  265  sudo ls
+  266  find ~ -size -1m
+  267  find ~ -size +1m
+  268  find ?
+  269  find ~ -size +1m
+  270  find ~ -size +1M
+  271  find ~ -size -1M
+  272  find ~ -mtime -1
+  273  find ~ -mtime -2
+  274  which python
+  275  which python3
+  276  ls -l
+  277  tree
+  278  mkdir -p ~/kon/pratice
+  279  ls
+  280  cd ~ /kon
+  281  cd ~/kon
+  282  mkdir dir11 dir22 dir33
+  283  ls
+  284  touch file1.txt file2.txt
+  285  ls
+  286  echo "print test" > file1.txt
+  287  cat file1.txt
+  288  echo "another test" >> file1.txt
+  289  cat file1.txt
+  290  mv file1.txt dir11/
+  291  ls
+  292  ls dir11
+  293  mv file2.txt testchang.txt
+  294  ls
+  295  cat << kon > file2.txt
+  296  kyaw 
+  297  zin
+  298  linux
+  299  ccna
+  300  a+
+  301  kon
+  302  cat file2.txt
+  303  -nl file2.txt
+  304  nl file2.txt
+  305  nl -n file2.txt
+  306  head -n 3 file2.txt
+  307  tail -n 2 file2.txt
+  308  nano file2.txt
+  309  ls
+  310  ls file2.txt
+  311  cat file2.txt
+  312  cat testedfile.txt
+  313  cat testedchange.txt
+  314  cat testedchang.txt
+  315  cat testchang.txt
+  316  ls testchang.txt
+  317  echo "test text" testchang.txt
+  318  cat testchang.txt
+  319  echo "test text" > testchang.txt
+  320  cat testchang.txt
+  321  find . -name "test"
+  322  sudo find / -name "test"
+  323  find . -name "*.txt"
+  324  ls old_report.txt
+  325  touch old_report.txt
+  326  ls
+  327  ls old_report.txt
+  328  /opt/
+  329  ls /opt/
+  330  cat /opt/
+  331  cd /opt/
+  332  ls
+  333  show
+  334  tree
+  335  cd ##
+  336  cd /lib/
+  337  ls
+  338  tree
+  339  cd ~
+  340  cd /media/
+  341  ls
+  342  tree
+  343  cd~
+  344  cd ~
+  345  cd /boot
+  346  ls
+  347  tree
+  348  cd ~
+  349  cd /etc
+  350  ls
+  351  tree
+  352  cd  /x11
+  353  ls -l
+  354  ls -l /x11
+  355  ls X11
+  356  ls /X11
+  357  x11
+  358  cd ~
+  359  cd /etc/X11
+  360  ls
+  361  tree
+  362  ls -l
+  363  cd ~
+  364  cd /etc/skel
+  365  ls -l
+  366  ls
+  367  tree
+  368  cd ##
+  369  cd /mnt
+  370  ls
+  371  ls -l
+  372  cd ##
+  373  cd opt
+  374  cd /opt
+  375  ls
+  376  ls -l
+  377  cd ##
+  378  cd /proc
+  379  ls
+  380  ls -l
+  381  ls -l p
+  382  cat /proc/cpuinfo
+  383  cat /interrupt
+  384  cat /interrupts
+  385  cd ##
+  386  cd /sbin
+  387  ls
+  388  cd ##
+  389  cd /srv
+  390  ls
+  391  ls -l
+  392  cd ##
+  393  cd /sbin/hotplug
+  394  cd /sys
+  395  /sbin/hotplug
+  396  cd /usr
+  397  ls
+  398  tree
+  399  cd ##
+  400  cd /var/
+  401  ls
+  402  tree
+  403  cd ##
+  404  cd /boot/
+  405  ls
+  406  cd ##
+  407  cd /dev
+  408  ls
+  409  cd ##
+  410  cd /etc
+  411  ls
+  412  cd ##
+  413  cd /lib
+  414  ls
+  415  cd ##
+  416  cd /media
+  417  ls
+  418  ls -l
+  419  cd ##
+  420  cd /mnt
+  421  ls
+  422  ls -l
+  423  cd ##
+  424  cd /opt
+  425  ls
+  426  ls -l
+  427  cd ##
+  428  cd /proc
+  429  ls
+  430  ls -l
+  431  cd ##
+  432  cd /sbin
+  433  ls
+  434  ls -l
+  435  cd ##
+  436  cd /srv
+  437  ls
+  438  cd ##
+  439  cd /usr
+  440  ls
+  441  ls -l
+  442  cd ##
+  443  cd /usr/local
+  444  ls -l
+  445  cd ##
+  446  cd /var
+  447  ls
+  448  ls -l
+  449  cd ##
+  450  cd /project/pratice
+  451  cd /project/pratice/
+  452  cd ~/project
+  453  ls
+  454  cd /pratice
+  455  cd ~/pratice
+  456  cd ##
+  457  cd ~/project/pratice/
+  458  ls
+  459  ls -l
+  460  cd ..
+  461  echo "new file" > File.txt
+  462  cat File.txt
+  463  VI File.txt
+  464  cd ##
+  465  VI File1.txt
+  466  VI ile1.txt
+  467  find . -n "*.txt"
+  468  cd ~/project/pratice/
+  469  cd ..
+  470  cd /dir1
+  471  cd dir1/
+  472  ls
+  473  VI file1.txt
+  474  cd ##
+  475  sudo apt update
+  476  sudo apt install VI
+  477  cd ~/project/pratice/
+  478  cd ..
+  479  cd dir1/
+  480  VI file1.txt
+  481  sudo apt install vim
+  482  sudo apt install vi
+  483  vim file1.txt
+  484  cat file1.txt
+  485  emacs version
+  486  sudo apt updates
+  487  sudo apt update
+  488  sudo apt install emacs
+  489  sudo yum install vi
+  490  sudo yum install emacs
+  491  emacs file1.txt
+  492  echo $PATHS
+  493  echo $PATH
+  494  cd home/wulin/project
+  495  cd ~/home/wulin/project
+  496  cd /home/wulin/project
+  497  my_var="Hello, Linux"
+  498  echo $my_var
+  499  echo "the value of my_var is : $my_var"
+  500  env
+  501  echo $PATH
+  502  export MY_VAR_ENV="this is the environment variable"
+  503  echo $MY_VAR_ENV
+  504  echo '#!/bin/bash
+  505  echo "shell variable : $my_var"
+  506  echo "enviroment variable: $My_ENV_VAR"' > test_vars.sh
+  507  chmod +x test_vars.sh
+  508  ./test_vars.sh
+  509  env | grep MY_ENV_VAR
+  510  export MY_ENV_VAR="this is an environment variable
+  511  cd.. 
+  512  > test-var.sh
+  513  echo $MY_ENV_VAR
+  514  env | grep MY_ENV_VAR
+  515  cd /home/wulin/progect
+  516  cd /home/wulin/project
+  517  echo $MY_ENV_VAR
+  518  env | grep MY_ENV_VAR
+  519  echo $path
+  520  echo $PATH
+  521  tree
+  522  echo '#!/bin/bash
+  523  echo "shell variable: $my_var"
+  524  echo "environment variable: $MY_ENV_VAR"' > test_vars.sh
+  525  chmod +x test_vars.sh
+  526  ./test_vars.sh
+  527  export MY_ENV_VAR="thsi is an environment"
+  528  env | grep MY_ENV_VAR
+  529  echo '#!/bin/bash
+  530  echo "shell variable: $my_var"
+  531  echo "Enviroment Variable: $MY_ENV_VAR"
+  532  echo > test_vars.sh
+  533  echo env' > test_vars.sh
+  534  chmod +x test_vars.sh
+  535  ./test_vars.sh
+  536  env | grep MY_ENV_VAR
+  537  echo $MY_ENV_VAR
+  538  echo $PATH
+  539  echo $MY_ENV_VAR
+  540  cat $MY_ENV_VAR
+  541  export MY_ENV_VAR="something"
+  542  mkdir ~/my_scripts
+  543  export PATH="$PATH:$HOME/my_scripts"
+  544  echo $PATH
+  545  echo '#!/bin/bash
+  546  echo "Hello from my custom scripts!"' > ~/my_scripts/hello.sh
+  547  chmod +x ~/my_scripts/hello.sh
+  548  hello.sh
+  549  cd /tmp
+  550  hello.sh
+  551  cd ..
+  552  nano ~/.zshrc
+  553  source ~/.zshrc
+  554  nano ~/.zshrc
+  555  edit ~/.zshrc
+  556  echo $HOME
+  557  echo $USER
+  558  echo $SHELL
+  559  nano ~/.bashrc
+  560  cd ##
+  561  PATH
+  562  tree
+  563  TREE
+  564  tree
+  565  type cd
+  566  type ls
+  567  ls --help
+  568  cp --help
+  569  cp -a
+  570  cp --help
+  571  man ls
+  572  man grep
+  573  $ man -a intro
+  574  q
+  575  man -k printf
+  576  apropos password
+  577  apropos file
+  578  apropos file | grep creatr
+  579  apropos file | grep create
+  580  cd ~/project
+  581  mkdir logical_command_lab
+  582  cd logical_command_lab
+  583  mkdir test_dir && echo "Directory create successfully"
+  584  ls
+  585  tree
+  586  cat test_dir
+  587  show test_dir
+  588  mkdir test_dir && echo "Directory create successfully"
+  589  mkdir test_dir || echo "Failed to create directory"
+  590  mkdir new_dir || echo "Failed to create directory"
+  591  echo "First Command" ; echo "Second Command" ; echo "Third Command"
+  592  date ; ls -l ; pwd
+  593  echo "apple banna" | tr ' ' ' \n' | sort
+  594  echo "apple banana date cherry elderberry" | tr ' ' ' \n' | sort
+  595  echo "the quick brown fox jumps over the lazy dog" > sentence.txt
+  596  cat sentence.txt | grep "fox" > fox_result.txt && echo "search complete"
+  597  cat fox_result.txt
+  598  echo ~
+  599  ls
+  600  ls ~
+  601  cd project
+  602  touch example.txt
+  603  ls
+  604  ls -l example.txt
+  605  sudo chown root:root example.txt
+  606  ls -l example.txt
+  607  mkdir -p new-dir/subdir
+  608  echo "hello world" > new-dir/file1.txt
+  609  echo "Another File" > new-dir/subdir/file2.txt
+  610  cd project
+  611  ls
+  612  ls -lR new-dir
+  613  sudo chown -R root:root new-dir
+  614  ls -l new-dir
+  615  ls -lR new-dir
+  616  ls -l example.txt
+  617  sudo chmod 700 example.txt
+  618  ls -l example.txt
+  619  mkdir ~/test-dir
+  620  chmod 700 ~/test-dir
+  621  ls -l test-dir
+  622  ls -ld test-dir
+  623  ls -ld ~/test-dir
+  624  chmod -R 755 ~/test-dir
+  625  ls -ld ~/test-dir
+  626  echo '#!/bin/bash\necho "hello world"' > script.sh
+  627  ls -l script.sh
+  628  ./script.sh
+  629  ls -l script.sh
+  630  ./script.sh
+  631  chmod u+x script.sh
+  632  ./script.sh
+  633  ls -l script.sh
+  634  ./script.sh
+  635  echo '#!/bin/bash\necho "hello world"' > script.sh
+  636  ls -l script.sh
+  637  chmod u+x script.sh
+  638  ls -l script.sh
+  639  ./script.sh
+  640  cd project
+  641  echo '#!/bin/bash\necho "hello world"' > kz.sh
+  642  ls -l kz.sh
+  643  chmod u+x kz.sh
+  644  ./kz.sh
+  645  chmod u+x kz.sh
+  646  ls -l kz.sh
+  647  cd ~/project
+  648  mkdir -p test-dir/{subdir1,subdir2}
+  649  echo "this is file 1" > test-dir/file1.txt
+  650  echo "this is file 2" > test-dir/file2.txt
+  651  echo "this is in subdir1" > test-dir/subdir1/subfile1.txt
+  652  echo "this is in subdir2" > test-dir/subdir2/subfile2.txt
+  653  tree test-dir
+  654  tar -cvf test_archive.tar test-dir
+  655  tar -tvf test_archive.tar
+  656  mkdir extract_tar
+  657  tar -xvf test_archive.tar -C extract_tar
+  658  tree extract_tar
+  659  ls -R extract_tar
+  660  ls -lh test_archive.tar.gz
+  661  gzip test_archive.tar
+  662  ls -lh test_archive.tar.gz
+  663  ##size of the orginal directory
+  664  echo "size of the orginal directory:"
+  665  du -sh test_dir
+  666  tar -cvf test_archive_compare.tar test_dir
+  667  tree
+  668  du -sh test-dir
+  669  tar -cvf test_archive_compare.tar test-dir
+  670  echo "size of the tar archive:"
+  671  ls -lh test_archive_compare.tar
+  672  echo "size of the compressed tar.gz file:"
+  673  la -lh test_archive.tar.gz
+  674  tar -czvf test_combine.tar.gz test_dir
+  675  tar -czvf test_combine.tar.gz test-dir
+  676  tar -tzvf test_combine.tar.gz
+  677  mkdir extracted
+  678  tar -xzvf test_combined.tar.gz -C extracted
+  679  tree extracted
+  680  cd ~/project
+  681  ls
+  682  echo "this is cp lab" > important_report.txt
+  683  ls
+  684  cp ~/project/important_report.txt ~/project/important_report_backup.txt 
+  685  ls
+  686  mkdir music
+  687  ls
+  688  cp ~/project//favorite_song.mp3 ~/project/music
+  689  cp ~/project/file.txt ~/project/music
+  690  cp ~/project/File.txt ~/project/music
+  691  cp ~/project/File.txt ~/project/music/
+  692  cd music/
+  693  ls
+  694  cd ..
+  695  echo "this is report" > report1.txt report2.txt
+  696  ls
+  697  echo "this is report" > report2.txt
+  698  ls
+  699  cp ~/project/report1.txt ~/project/report2.txt -p ~/project/notes.txt ~/project/documens/
+  700  cp ~/project/report1.txt ~/project/report2.txt -p ~/project/notes.txt -p  ~/project/documens/
+  701  cp ~/project/report1.txt ~/project/report2.txt -p ~/project/notes.txt -p ~/project/documens/
+  702  mkdir documentsv
+  703  cp ~/project/report1.txt ~/project/report2.txt -p ~/project/notes.txt -p ~/project/documentsv/
+  704  touch notes.txt
+  705  cp ~/project/report1.txt ~/project/report2.txt -p ~/project/notes.txt -p ~/project/documentsv/
+  706  cd documentsv/
+  707  ls
+  708  cd ..
+  709  ls
+  710  cat test_file.txt
+  711  echo "This is test" > test_file.txt
+  712  cat test_file.txt
+  713  echo "this is new test" > new_test_file.txt
+  714  cat new_test_file.txt
+  715  cp -i ~/project/new_test_file.txt ~/project/test_file.txt
+  716  cat test_file.txt
+  717  mkdir ~/project/website/test
+  718  mkdir website/test
+  719  mkdir website
+  720  cd website
+  721  mkdir test
+  722  touch 15-2-25test.txt
+  723  echo "This month is February" > echo_file.txt
+  724  ls
+  725  cd ..
+  726  mkdir website_backup
+  727  cp -r ~/project/website ~/project/website_backup
+  728  cd website_backup/
+  729  ls
+  730  cat website
+  731  ls wedsite/
+  732  ls website/
+  733  cd..
+  734  cd ..
+  735  ls
+  736  touch old_file.txt
+  737  cp -p ~/project/old_file.txt ~/project/preserved_file.txt
+  738  mkdir text_file
+  739  mkdir pdf_file
+  740  cp ~/project/*.txt ~/project/text_file/
+  741  cd project/
+  742  ls
+  743  touch index.html
+  744  touch style.css
+  745  touch script.js
+  746  touch utils.js
+  747  mkdir images
+  748  ls
+  749  mkdir css
+  750  mv style.css css
+  751  mv style.css css/
+  752  cd css
+  753  ls
+  754  cd ..
+  755  mv index.html home.html
+  756  ls
+  757  mkdir scripts
+  758  mv *.js scripts
+  759  ls scripts
+  760  echo "test content" > test.txt
+  761  ls home.html
+  762  echo "home page" > home.html
+  763  ls home.html
+  764  cat home.html
+  765  ls
+  766  tree
+  767  free -h
+  768  lsb_release -a or cat/etc/os-release
+  769  Isb_release -a or cat/etc/os-release
+  770  sudo apt install lsb release
+  771  Isb_release -a or cat/etc/os-release
+  772  neofetch
+  773  lshw
+  774  lsb release -a
+  775  cat/etc/os-release
+  776  free -h
+  777  df -h
+  778  top
+  779  sudo apt update
+  780  sudo apt upgrade
+  781  ip a
+  782  udo apt-get install wget gpg
+  783  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+  784  sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+  785  echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+  786  rm -f packages.microsoft.gpg
+  787  sudo apt install apt-transport-https
+  788  sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+  789  echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\nautorefresh=1\ntype=rpm-md\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" | sudo tee /etc/yum.repos.d/vscode.repo > /dev/null
+  790  dnf check-update
+  791  sudo dnf install code #
+  792  yum check-update
+  793  sudo yum install code
+  794  sudo snap install --classic code # or code-insiders
+  795  sudo apt install ./<file>.deb
+  796  # If you're on an older Linux distribution, you will need to run this instead:
+  797  # sudo dpkg -i <file>.deb
+  798  # sudo apt-get install -f # Install dependencies
+  799  sudo apt install .//home/wulin/Downloads/code_1.101.2-1750797935_amd64.deb
+  800  sudo apt-get install wget gpg
+  801  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+  802  sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+  803  echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+  804  rm -f packages.microsoft.gpg
+  805  sudo apt install apt-transport-https
+  806  sudo apt update
+  807  sudo apt install code # or code-insiders
+  808  sudo apt install /home/wulin/Downloads/viber.deb
+  809  cd Downloads
+  810  sudo dpkg -i viber.deb 
+  811  sudo dpkg --purge viber
+  812  sudo apt install viber
+  813  run viber
+  814  viber
+  815  sudo apt install update
+  816  sudo apt update upgrade
+  817  sudo apt update
+  818  pwd
+  819  date
+  820  clear
+  821  pwd
+  822  date
+  823  ls
+  824  sudo apt update
+  825  date
+  826  pwd
+  827  ls
+  828  ls Desktop/
+  829  next
+  830  top
+  831  free
+  832  ls-ls
+  833  ls -ls
+  834  ls -l
+  835  clear
+  836  ls desk
+  837  ls Desktop/
+  838  cd Desktop/
+  839  ls
+  840  ls -[h
+  841  ls -lh
+  842  clear
+  843  cd ..
+  844  Date
+  845  date
+  846  ls
+  847  ls -l
+  848  cd Desktop/
+  849  mkdir 100_Days_Challenge
+  850  ls
+  851  cd 100_Days_Challenge/
+  852  mkdir ls_folder
+  853  ls
+  854  cd ls_folder/
+  855  touch file1.txt file2.txt file3.txt file4.java file5.java file6.css
+  856  ls
+  857  cd ~
+  858  ls Desktop/100_Days_Challenge/ls_folder/*.txt
+  859  cd Desktop/100_Days_Challenge/ls_folder/
+  860  *.txt
+  861  ls *.txt
+  862  cd ~
+  863  ls /
+  864  ls ~
+  865  cd Desktop/
+  866  ls
+  867  ls ..
+  868  cd 100_Days_Challenge/
+  869  cd ls_folder/
+  870  ls ../..
+  871  cd ~
+  872  cd Desktop/
+  873  touch 100_Days_Challenge.txt
+  874  ls
+  875  cd 100_Days_Challenge/
+  876  cd ls_folder/
+  877  ls ../..
+  878  cd ~
+  879  ls -l
+  880  clear
+  881  ls -l
+  882  ls -a
+  883  ls -la
+  884  clear
+  885  ls -ls
+  886  ls -ls /
+  887  clear
+  888  cd Desktop/
+  889  cd 100_Days_Challenge/
+  890  cd ls_folder/
+  891  ls *.txt
+  892  cd ~
+  893  ls Desktop/100_Days_Challenge/ls_folder/*.txt
+  894  cd Desktop/100_Days_Challenge/ls_folder/
+  895  ls *.txt
+  896  ls *.java
+  897  cd ~
+  898  ls -l /
+  899  ls -lh
+  900  ls -lh /
+  901  ls -lt
+  902  clear
+  903  history
+  904  cd Desktop/100_Days_Challenge/ls_folder/
+  905  ls
+  906  ls -ls > ls_file7_out.txt
+  907  cat ls_file7_out.txt 
+  908  ls > ls_file8_out.txt
+  909  cat ls_file8_out.txt 
+  910  cd ..
+  911  ls
+  912  ls -d */
+  913  cd 100_Days_Challenge/ls_folder/
+  914  mkdir folder(1,2)
+  915  mkdir folder{1,2}
+  916  ls
+  917  clear
+  918  mkdir folder{3,4,5}
+  919  ls
+  920  ls -d folder{1,2}
+  921  man ls
+  922  touch ls_file_day6.txt
+  923  date > ls_file_day6.txt 
+  924  cat ls_file_day6.txt 
+  925  history
+  926  history >> ls_file_day6.txt 

@@ -1,0 +1,8 @@
+file1.txt
+file2.txt
+file3.txt
+file4.java
+file5.java
+file6.css
+ls_file7_out.txt
+ls_file8_out.txt

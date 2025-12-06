@@ -1,0 +1,58 @@
+    1  mkdir mv_commands
+    2  ls
+    3  touch mv_test_file1.txt
+    4  cd mv_commands/
+    5  ls
+    6  cat >> mv_test_file1.txt 
+    7  mv mv_test_file1.txt mv_file1.txt
+    8  ls
+    9  cat mv_file1.txt 
+   10  mkdir mv_dir
+   11  ls
+   12  mv mv_file1.txt mv_dir/
+   13  ls
+   14  cat > mv_file1.txt
+   15  cat mv_file1.txt
+   16  ls
+   17  ls -n
+   18  ls -R
+   19  mv mv_file1.txt mv_dir/
+   20  cat mv_dir/mv_file1.txt 
+   21  ls
+   22  date > mv_file1.txt
+   23  clear
+   24  mv -i mv_file1.txt mv_dir/
+   25  cat mv_dir/mv_file1.txt 
+   26  mkdir mv_dir2
+   27  mv mv_dir/ mv_dir2/
+   28  ls
+   29  ls -R
+   30  mv mv_dir2/ mv_dir3/
+   31  ls
+   32  ls -R
+   33  touch mv_file{2,3}.txt
+   34  ls
+   35  mv mv_file2.txt mv_file3.txt mv_dir3/
+   36  ls mv_dir3/
+   37  ls
+   38  mv mv_file1.txt mv_dir3/
+   39  ls
+   40  clear
+   41  cd mv_dir3/
+   42  mv * ..
+   43  cd ..
+   44  ls
+   45  mkdir mv_dir4
+   46  mv mv_dir3/* mv_dir4/
+   47  touch mv_dir3_file{1,2}.txt
+   48  mv  mv_dir3_file{1,2}.txt mv_dir3
+   49  mv mv_dir3/* mv_dir4/
+   50  ls mv_dir4/
+   51  ls mv_dir3/
+   52  ls
+   53  cd ..
+   54  cd command_history/
+   55  ls
+   56  touch Day11.txt
+   57  history > Day11.txt 
+Sat Nov 15 10:40:17 PM +0630 2025

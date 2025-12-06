@@ -1,0 +1,13 @@
+Linux
+Java
+HTML
+CSS
+
+
+Python
+PHP
+JavaScript
+TypeScript
+
+
+
