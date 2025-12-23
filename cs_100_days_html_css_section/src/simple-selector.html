@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /*universal selector*/
+        *{
+            margin: 0;
+            padding: 0;
+            /*text-decoration: underline;*/
+            text-decoration: none;
+        }
+        /*Element Selector*/
+        p{
+            color: green;
+        }
+
+        h5{
+            color: red;
+        }
+
+        /*class selector*/
+        .same-color{
+            color: red;
+        }
+
+        /*id selector*/
+        #unique{
+            font-family: "Ubuntu Sans Mono", monospace;
+            text-decoration: underline;
+        }
+
+        /*group selector*/
+        p,h5,h4{
+            font-size: 30px;
+            font-style: italic;
+        }
+
+        .same-color,.same-style{
+            text-decoration: line-through;
+        }
+
+        #one,#two,#three,#four{
+            font-weight: bold;
+        }
+
+        h4.same-style#four{
+            color: green;
+        }
+
+        .same-style#four{
+            color: yellow;
+        }
+
+        #four{
+            color: magenta;
+        }
+    </style>
+</head>
+<body>
+    <p id="one" class="same-color">Lorem ipsum dolor sit amet.</p>
+    <h5 id="two" class="same-color">Lorem ipsum dolor sit amet.</h5>
+    <h5 id="unique" class="same-color">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, soluta?</h5>
+
+    <h4 id="three" class="same-style">Lorem ipsum dolor sit amet.</h4>
+    <h4 id="four" class="same-style">Lorem ipsum dolor sit amet.</h4>
+
+</body>
+</html>

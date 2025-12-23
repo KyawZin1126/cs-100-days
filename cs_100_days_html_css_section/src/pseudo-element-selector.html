@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p::first-line{
+            color: red;
+        }
+
+        #letter::first-letter{
+            font-size: 35px;
+            font-family: "Ubuntu Sans Mono", monospace;
+        }
+
+        h1::before{
+            content: "CS 100 Days";
+        }
+
+        h2::after{
+            content: " Section";
+        }
+
+        ::marker{
+            color: red;
+        }
+
+        #select::selection{
+            color: blue;
+            background-color: cyan;
+        }
+    </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto asperiores, at commodi consectetur consequuntur et fuga illum ipsum mollitia, perferendis provident quaerat quos tempora tempore, veritatis. Ab aliquam at blanditiis delectus distinctio doloribus enim error exercitationem facere fuga harum laboriosam numquam omnis pariatur perferendis, possimus quia soluta temporibus totam voluptates.</p>
+
+    <p id="letter">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, voluptates?</p>
+
+    <h1>Challenge</h1>
+
+    <h2>HTML and CSS</h2>
+
+    <ul>
+        <li>Lorem ipsum dolor.</li>
+        <li>Exercitationem, inventore numquam!</li>
+        <li>Ex, rem, sunt!</li>
+    </ul>
+
+    <ol>
+        <li>Lorem ipsum dolor.</li>
+        <li>Exercitationem, inventore numquam!</li>
+        <li>Ex, rem, sunt!</li>
+    </ol>
+
+
+    <p id="select">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam at beatae cum error et mollitia officiis quas quasi repellat sapiente, similique ullam velit. Animi, delectus distinctio ducimus earum exercitationem id iusto modi nostrum possimus! Alias distinctio earum esse est et exercitationem fuga inventore iste labore molestias quidem repellat repellendus, sunt.</p>
+</body>
+</html>
